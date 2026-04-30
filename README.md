@@ -12,7 +12,7 @@ I'm a graduate with a Bachelor of Arts in Digital Experience and Interaction Des
 * Tailwind
 * Javascript
 * Node.js
-* SACSS
+* SCSS
 * APIs & databases
   
 👯**I’m looking to collaborate on**
